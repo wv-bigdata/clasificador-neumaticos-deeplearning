@@ -9,7 +9,7 @@
 
 **Este trabajo consiste en la clasificación de neumáticos utilizando imágenes, aplicando Deep Learning con redes neuronales convolucionales.**
 
-**Para este diseño hay 2 tipos:**
+**Para este diseño hay 2 tipos de neumáticos:**
 - Defective (Neumáticos en mal estado)
 - Good (Neumáticos en buen estado)
 
